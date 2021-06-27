@@ -1,0 +1,13 @@
+.dialogs{
+    display: grid;
+    grid-template-columns: 5fr 10fr;
+    align-items: start;
+}
+.dialogItemWrapper{
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    align-items: center;
+}
+.dialogItemMasseges{
+    padding: 5px;
+}

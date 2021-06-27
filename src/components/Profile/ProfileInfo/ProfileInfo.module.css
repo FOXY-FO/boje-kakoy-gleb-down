@@ -1,0 +1,7 @@
+.description{
+    padding: 10px;
+}
+.description span {
+    font-size: 20px;
+    font-weight: bold;
+}

@@ -1,0 +1,17 @@
+.avatar {
+    width: 8%; 
+    height: 8%;
+    border-radius: 50%;       
+}
+.appraisal img{
+    width: 2%; 
+    height: 2%;
+}
+.likeCout{
+    color: #00FF03;
+    font-size: 24px;
+}
+.dislikeCout{
+    color: #CC0000;
+    font-size: 24px;
+}
